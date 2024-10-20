@@ -1,4 +1,4 @@
-Login and Registration System
+<h1>Login and Registration System<h1></h1>
 A simple login and registration system built with JSP, Servlet, and MySQL. It allows users to register, log in, and securely access protected resources with session management.
 
 Features
